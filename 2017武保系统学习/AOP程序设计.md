@@ -6,7 +6,7 @@ AOP(面向方面的程序设计)
 内存访问模式
 日志、安全
 >事务、性能	
-![enter image description here](http://pic.027cgb.cn/20170209/b55d1a44-7281-470f-9089-48ea9f179858%E5%9B%BE%E7%89%871.jpg)
+![123456](./img/AOP纵向关注点.jpg)
 
 
 AOP核心内容就是所谓的“横切关注点”，即“方面”，Aspect是AOP提供的一种程序设计单元。
